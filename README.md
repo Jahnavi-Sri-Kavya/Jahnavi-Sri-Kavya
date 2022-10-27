@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahnavi Sri Kavya Bollimuntha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Scientist from United States of America</h3>
 
 - 🔭 I’m currently working on **building up my GitHub profile with data science projects**
 
