@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jahnavi Sri Kavya Bollimuntha</h1>
-<h3 align="center">A passionate Data Scientist from United States of America</h3>
+<h3 align="center">A passionate Full Stack Developer from United States of America</h3>
 
 - 🔭 I’m currently working on **building up my GitHub profile with data science projects**
 
-- 🌱 I’m currently learning **the basics of Exploratory Data Analysis (EDA), regression, classifications, cluster analysis and advance data science such as deep learning**
+- 🌱 I’m currently learning **Angular JS, React JS**
 
-- 👯 I’m looking to collaborate on **any of the presented datascience projects or open to other projects**
-
-- 🤝 I’m looking for help with **front-end applications, ideally displaying the datascience results on a Websites**
+- 👯 I’m looking to collaborate on **any of the presented full stack projects or open to other projects**
 
 - 📫 How to reach me **jahnavi.bollimuntha@gmail.com**
 
