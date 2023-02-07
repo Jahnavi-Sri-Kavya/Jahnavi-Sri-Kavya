@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahnavi Sri Kavya</h1>
 <h3 align="center">A passionate full stack developer from United States</h3>
 
-- 🌱 I’m currently learning **Angualar JS, React JS, Spring Boot,**
+- 🌱 I’m currently learning **Angular JS, React JS, Spring Boot,**
 
 - 💬 Ask me about **Java**
 
