@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **building up my GitHub profile with data science projects**
 
-- 🌱 I’m currently learning **the basics of Exploratory Data Analysis (EDA), regression, classifications, cluster analysis and advance data science such as deep learning**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 👯 I’m looking to collaborate on **any of the presented datascience projects or open to other projects**
-
-- 🤝 I’m looking for help with **front-end applications, ideally displaying the datascience results on a Websites**
 
 - 📫 How to reach me **jahnavi.bollimuntha@gmail.com**
 
